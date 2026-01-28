@@ -63,13 +63,6 @@ This tool does the following:
 * [telegram](https://www.npmjs.com/package/telegram) (GramJS) - MTProto implementation
 * [open](https://www.npmjs.com/package/open) - Opens browser automatically
 
-## ☕ Support
-
-If you found this tool useful, you can support the development:
-
-<a href="https://nowpayments.io/donation?api_key=d824db3b-fcf7-4ebb-8e3d-297c23cfeee2" target="_blank" rel="noreferrer noopener">
-    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
 
 ## 📝 License
 
