@@ -57,14 +57,6 @@
 * **GramJS:** کتابخانه جاوااسکریپتی پروتکل تلگرام (بدون باینری‌های C++).
 * **HTML/CSS Vanilla:** رابط کاربری سبک و بدون فریم‌ورک سنگین.
 
-## ☕ حمایت (Donation)
-
-اگر این ابزار برایتان مفید بود، می‌توانید از طریق لینک زیر حمایت کنید:
-
-<a href="https://nowpayments.io/donation?api_key=d824db3b-fcf7-4ebb-8e3d-297c23cfeee2" target="_blank" rel="noreferrer noopener">
-    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
-
 ## 📄 لایسنس
 
 این پروژه متن‌باز (Open Source) است و تحت لایسنس MIT منتشر شده است.
